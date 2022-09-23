@@ -5,4 +5,4 @@
 ## Technical Background
 - I have knowledge in C, C++, Cobol, Python. I have knowledge in database like MySQL, Mongo DB.
 ### Favorite Meme
-![Computer science Meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmemebase.cheezburger.com%2Ftag%2Fcomputer-science&psig=AOvVaw0EdfPXfIKjjCJJMbzsTegt&ust=1664062605129000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNDmo7eKrPoCFQAAAAAdAAAAABAI)
+![Computer science Meme](https://i.chzbgr.com/thumb800/14732037/hDE6A9508/software-developer-nerdy-memes-geeky-memes-relatable-memes-funny-memes-memes-lol-programming-memes)
