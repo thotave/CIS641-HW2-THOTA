@@ -1,14 +1,21 @@
 # VENKATA MADHAV THOTA
-![Personal](C:/Madhav/Pics & Videos/CCFF9093)
+![CCFF9093](https://user-images.githubusercontent.com/106224773/195971199-ed5c8e56-6aad-487e-9ae6-fa4d18fa4310.JPG)
 
 ## Educational Details
-- Masters in Applied Computer Science                                       Present
-- Bachelor of Engineering in Electronics and Communication Engineering      Aug 2014 - June 2018
+- Masters in Applied Computer Science
+- Bachelor of Engineering in Electronics and Communication Engineering
 
 ## Hobbies 
 - My Hobbies are playing volley ball, cricket.
 - I am interested in Colud and Devops.
 - I like to follow and learn new technology.
+
+## Technical Background
+- Languages             : C, C++, Python, Python libraries, R
+- Modelling Techniques  : Decision Tree, Ensemble models, Deep learning, MLP, CNN, RNN
+- Databases             : MySQL, DB2, Oracle 11g
+- Operating Systems     : Windows, Linux
+- Good knowledge on Google cloud and AWS, Github
 
 ## Professional Experience
 - Having 3+ years of experience in IT industry. Worked as Associate Consultant at Capgemini, Hyderabad 
@@ -25,7 +32,5 @@ colour classification and recognition of approximate vehicle colour.
 understood by machines. By using the technologies of OCV, ML, MDL the project explains the detection,
 direction, speed, colour of vehicles. 
 
-## Technical Background
-- I have knowledge in C, C++, Cobol, Python. I have knowledge in database like MySQL, Mongo DB.
-### Favorite Meme
-![Computer science Meme](https://i.chzbgr.com/thumb800/14732037/hDE6A9508/software-developer-nerdy-memes-geeky-memes-relatable-memes-funny-memes-memes-lol-programming-memes)
+<!-- ### Favorite Meme
+![Computer science Meme](https://i.chzbgr.com/thumb800/14732037/hDE6A9508/software-developer-nerdy-memes-geeky-memes-relatable-memes-funny-memes-memes-lol-programming-memes) -->
