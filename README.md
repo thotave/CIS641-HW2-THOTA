@@ -32,5 +32,16 @@ colour classification and recognition of approximate vehicle colour.
 understood by machines. By using the technologies of OCV, ML, MDL the project explains the detection,
 direction, speed, colour of vehicles. 
 
+## Term Project
+### Employee Management System
+The name itself shows that we are doing a project on how to assist the newly hired employee from hiring
+(onboarding process) and to assist the organization to locate specific employees' complete records within 
+a business. To manage and maintain all the data in one place this web based application is created to help 
+the organization and human resource team. We are using python as front backend, Angular JS as front end 
+and SQL as database. I believe that this project really helps new employees to make onboarding easy.
+
+[Project Details](https://github.com/thotave/GVSU-CIS641-Vikings)
+
+
 <!-- ### Favorite Meme
 ![Computer science Meme](https://i.chzbgr.com/thumb800/14732037/hDE6A9508/software-developer-nerdy-memes-geeky-memes-relatable-memes-funny-memes-memes-lol-programming-memes) -->
